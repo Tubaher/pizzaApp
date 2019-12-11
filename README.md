@@ -14,4 +14,3 @@ for use STRIPE API need .env file
 
 Install requirements.txt for user this software, for production change DEBUG to False
 
-Made with :heart: by Emmanuel Lucio Urbina
